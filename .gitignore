@@ -18,3 +18,17 @@ hs_err_pid*
 *.mf
 /bin/
 /.apt_generated/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
